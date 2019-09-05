@@ -1,24 +1,13 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState } from 'react';
 import './App.css';
+import TweetButton from './TweetButton';
 
 const App: React.FC = () => {
+  const [visibleTweetButton, setVisibleTweetButton] = useState(true);
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {visibleTweetButton && <TweetButton text=""/>}
+      <button onClick={() => setVisibleTweetButton(!visibleTweetButton)}>{visibleTweetButton ? "Tweetボタンを非表示" : "Tweetボタンを表示"}</button>
     </div>
   );
 }
