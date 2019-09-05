@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.19393e92.chunk.css",
-    "main.js": "/static/js/main.1b3b7f58.chunk.js",
-    "main.js.map": "/static/js/main.1b3b7f58.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a38c44df.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a38c44df.js.map",
-    "static/js/2.96a826a4.chunk.js": "/static/js/2.96a826a4.chunk.js",
-    "static/js/2.96a826a4.chunk.js.map": "/static/js/2.96a826a4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ef9a3eb6dbfff345ee8a6cd1ef43a928.js": "/precache-manifest.ef9a3eb6dbfff345ee8a6cd1ef43a928.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.19393e92.chunk.css.map": "/static/css/main.19393e92.chunk.css.map"
+    "main.css": "/example-twitter-share-button-react/static/css/main.19393e92.chunk.css",
+    "main.js": "/example-twitter-share-button-react/static/js/main.0ca95baa.chunk.js",
+    "main.js.map": "/example-twitter-share-button-react/static/js/main.0ca95baa.chunk.js.map",
+    "runtime~main.js": "/example-twitter-share-button-react/static/js/runtime~main.344ea909.js",
+    "runtime~main.js.map": "/example-twitter-share-button-react/static/js/runtime~main.344ea909.js.map",
+    "static/js/2.96a826a4.chunk.js": "/example-twitter-share-button-react/static/js/2.96a826a4.chunk.js",
+    "static/js/2.96a826a4.chunk.js.map": "/example-twitter-share-button-react/static/js/2.96a826a4.chunk.js.map",
+    "index.html": "/example-twitter-share-button-react/index.html",
+    "precache-manifest.dc96f48f708adf37eb05f84c2c595caa.js": "/example-twitter-share-button-react/precache-manifest.dc96f48f708adf37eb05f84c2c595caa.js",
+    "service-worker.js": "/example-twitter-share-button-react/service-worker.js",
+    "static/css/main.19393e92.chunk.css.map": "/example-twitter-share-button-react/static/css/main.19393e92.chunk.css.map"
   }
 }
